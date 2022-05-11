@@ -10,3 +10,5 @@
 测试需要首先启动一个监听`localhost:6379`的Redis实例。
 
 `mvn clean verify`
+
+the origin repo url: https://github.com/hcsp/redis-distributed-lock
